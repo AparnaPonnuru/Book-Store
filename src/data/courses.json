@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "React Basics", "category": "Frontend", "duration": "2h", "isBookmarked": false },
+  { "id": 2, "title": "Node.js Fundamentals", "category": "Backend", "duration": "3h", "isBookmarked": false },
+  { "id": 3, "title": "MongoDB Mastery", "category": "Database", "duration": "1.5h", "isBookmarked": false }
+]
