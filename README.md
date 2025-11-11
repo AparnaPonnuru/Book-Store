@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+=======
+>>>>>>> f00888fd171e342521df0837777af6c2d203a5b2
 **Introduction** : 
 A simple and user-friendly Course Dashboard built using React.js, allowing users to browse courses, search, filter by category, and bookmark courses.
 The bookmarked courses are stored in localStorage, so they remain saved even after refreshing the page.
